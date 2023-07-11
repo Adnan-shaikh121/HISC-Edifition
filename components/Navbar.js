@@ -78,7 +78,7 @@ const Navbar = () => {
                         </div>
                         <div className="relative mt-6 flex-1 px-4 sm:px-6  ">
                             <ul className="flex flex-col gap-10 justify-center items-center ">
-                            <div className="text-custom font-700  text-46 leading-28 font-poppins  ">HISC   </div>
+                            <div className="text-custom font-700  text-46 leading-28 font-poppins  ">ADNAN</div>
 
                             <div className=" mt-20 font-roboto font-500 text-26 leading-80 flex flex-col justify-center items-center text-center">
                                 <Link href=''  onClick={(e) => {e.preventDefault(); setOpen(false)}} className="cursor-pointer">Home</Link>
