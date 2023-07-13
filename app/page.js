@@ -25,7 +25,7 @@ export default function Home() {
                      <div className="text-center text-14   sm:text-[16px] text-custom font-jost font-700 leading-20.23 md:text-[#0479CE]    md:text-[16px]  md:w-full md:text-start md:items-center ">START YOUR HEALTHY LIFESTYLE!</div>
                       <h1 className="scale-y-150 text-30  font-700 leading-[30px] font-bison text-sblack   w-226 mx-auto mt-10 flex justify-center items-center align-center sm:text-[40px] sm:leading-[40px] md:text-[47px]  md:w-430  md:leading-[48px] md:items-start md:mt-10 ">
                         BEGIN YOUR TRANSFORMATION TODAY</h1>
-                        <p className="mt-8 text-sblack  text-14 font-roboto leading-20 font-400 sm:mt-10 md:mt-10   md:w-96 md:text-14 md:leading-24 lg:text-18">Heartfulness International Sports Center
+                        <p className="mt-8 text-sblack  text-14 font-roboto leading-20 font-400 sm:mt-10 md:mt-10   md:w-96 md:text-14 md:leading-24 lg:text-18"> Sports Center
                             (HISC) empowers children and youth to unlock
                             their heart's potential through sports, fostering holistic well
                             being and personal growth.
@@ -40,9 +40,7 @@ export default function Home() {
           </div>
           <div className='hidden md:flex justify-end mr-7 mt-[100px] text-vector cursor-pointer'><Image src="/vector.png" width={61} height={61} /></div>
         </div> 
-       
-        
-      </div> 
+      </div>
       </div>
       <Begin/>
       <Sports/>
